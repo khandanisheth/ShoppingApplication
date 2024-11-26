@@ -1,6 +1,7 @@
 -> This project is a Desktop Application.
 
 => Key Features:
+
     1.Database Integration:
      The application uses JDBC to interact with all tables in a MySQL database.
 
